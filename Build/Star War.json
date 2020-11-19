@@ -1,0 +1,17 @@
+{
+"companyName": "VIT-GDUT-ANIMATION-CLASS1",
+"productName": "STAR WAR",
+"productVersion": "0.1",
+"dataUrl": "Star War.data.unityweb",
+"wasmCodeUrl": "Star War.wasm.code.unityweb",
+"wasmFrameworkUrl": "Star War.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Star War.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1c1"
+}
